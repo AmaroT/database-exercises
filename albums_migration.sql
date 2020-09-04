@@ -6,5 +6,5 @@ CREATE TABLE IF NOT EXISTS albums (
     release_date date DEFAULT NULL,
     sales int DEFAULT NULL,
     genre varchar(50) DEFAULT NULL,
-    PRIMARY KEY ('id')
+    PRIMARY KEY (id)
     );
