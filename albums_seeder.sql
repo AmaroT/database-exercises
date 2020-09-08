@@ -35,4 +35,4 @@ INSERT INTO albums VALUES
 ('Bruce Springsteen','Born in the U.S.A','1984','Heartland Rock','19.6','30','93'),
 ('Dire Straits','Brothers in Arms','1985','Blues Rock','17.7','30','94/95'),
 ('James Horner','Titanic OST','1997','Film Score','18.1','30','98'),
-('Nirvana','Nevermind','1991','alt Rock','16.7','30','100'),
+('Nirvana','Nevermind','1991','alt Rock','16.7','30','100')
